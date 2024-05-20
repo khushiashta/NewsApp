@@ -1,1 +1,2 @@
 export const SET_NEWS_DATA = "SET_NEWS_DATA";
+export const SET_NEWS_DATA_ERROR = "SET_NEWS_DATA_ERROR";
